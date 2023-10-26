@@ -83,7 +83,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <div class="logo"><a href="{{route('home.index')}}"><h1 style="font-weight: bold;font-size: 50px;color: white">Phuong Nam SPORT</h1></a></div>
+                    <div class="logo"><a href="{{route('home.index')}}"><h1 style="font-weight: bold;font-size: 50px;color: white">TST SPORT</h1></a></div>
                 </div>
             </div>
         </div>
@@ -173,7 +173,7 @@
                     <div class="carousel-item active">
                         <div class="row">
                             <div class="col-sm-12">
-                                <h1 class="banner_taital">Welcome to <br>Phuong Nam SPORT</h1>
+                                <h1 class="banner_taital">Welcome to <br>TST SPORT</h1>
                                 <div class="buynow_bt"><a href="#">Buy Now</a></div>
                             </div>
                         </div>
@@ -231,7 +231,7 @@
                 <li><a href="#">Customer Service</a></li>
             </ul>
         </div>
-        <div class="location_main">Help Line  Number : <a href="#">0355 262 101</a></div>
+        <div class="location_main">Help Line  Number : <a href="#">0352797320</a></div>
     </div>
 </div>
 <!-- footer section end -->
